@@ -14,14 +14,21 @@ a{
 font-family: Cinzel, serif ;
 color:black;
 font-size: 1.5em;
+align-items: center;
 
 }
 
 h2{
     font-family: Cinzel, serif;
     font-size: 2.3em;
+    align-items: center;
 }
 p{
     font-family: serif;
     font-size: 1.4em;
+}
+h1{
+    font-family: Cinzel, serif;
+    font-size: 2.7em;
+    align-items: center;
 }
